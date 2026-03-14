@@ -1,0 +1,16 @@
+id: "exp-test-001"
+domain: "Testing"
+summary: "A test experience pack for SDK validation"
+detail: |
+  ## Problem
+  Need to validate experience pack parsing.
+
+  ## Solution
+  Created a test fixture with all required fields.
+
+  ## Outcome
+  Parser works correctly.
+tags:
+  - testing
+  - go
+difficulty: "basic"
