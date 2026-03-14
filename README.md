@@ -1,5 +1,9 @@
 # OpenAgent SDK for Go
 
+<p align="center">
+  <img src="logo.png" width="96" alt="OpenAgent" />
+</p>
+
 Parse, validate, and work with [`agent.yaml`](https://github.com/openagent-spec/spec) manifests in Go.
 
 ## Install
